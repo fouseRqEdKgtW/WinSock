@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "WinSock", "WinSock\WinSock.vcxproj", "{E464364F-B038-4010-A582-2D4E7A296010}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E464364F-B038-4010-A582-2D4E7A296010}.Debug|x64.ActiveCfg = Debug|x64
+		{E464364F-B038-4010-A582-2D4E7A296010}.Debug|x64.Build.0 = Debug|x64
+		{E464364F-B038-4010-A582-2D4E7A296010}.Debug|x86.ActiveCfg = Debug|Win32
+		{E464364F-B038-4010-A582-2D4E7A296010}.Debug|x86.Build.0 = Debug|Win32
+		{E464364F-B038-4010-A582-2D4E7A296010}.Release|x64.ActiveCfg = Release|x64
+		{E464364F-B038-4010-A582-2D4E7A296010}.Release|x64.Build.0 = Release|x64
+		{E464364F-B038-4010-A582-2D4E7A296010}.Release|x86.ActiveCfg = Release|Win32
+		{E464364F-B038-4010-A582-2D4E7A296010}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4BB942BC-0F75-4B9C-9D63-4030435CE306}
+	EndGlobalSection
+EndGlobal
